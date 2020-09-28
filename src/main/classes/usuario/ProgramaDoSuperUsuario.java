@@ -1,3 +1,5 @@
+package one.digitalinnovation.classes.usuario;
+
 // classes com nomes compostos, sempre a primeira letra em maiúscula
 public class ProgramaDoSuperUsuario {
 	

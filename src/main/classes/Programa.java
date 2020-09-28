@@ -1,3 +1,5 @@
+package one.digitalinnovation.classes;
+
 // classes com o primeiro nome sempre em maiúsculo
 public class Programa {
 	
