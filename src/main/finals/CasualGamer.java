@@ -12,6 +12,7 @@ public class CasualGamer extends Gamer {
 
     public String play(final String game) {
         //game = "WoW";
+		
         return "Jogando "+ game;
     }
 }
