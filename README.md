@@ -15,7 +15,7 @@
 <h1 align="center">Curso de Desenvolvimento Básico Java<br>Java - Digital Innovation One</h1>
 
 - Criação de um projeto em Java [hello-java](https://github.com/Pleiterson/java-basico/tree/master/hello-java) e executando via linha de comando.
-- Explicado os conceitos de [classes](https://github.com/Pleiterson/java-basico/tree/master/src/main/classes) (atributos, retornos, parâmetros, assinaturas, construtores), [tipos](https://github.com/Pleiterson/java-basico/tree/master/src/main/tipos) (primitivos, não primitivos, wrappers, tipagem forte e estática), modificadores de acessos (public, private, protected, default, [abstract](https://github.com/Pleiterson/java-basico/tree/master/src/main/abstracts), [static](https://github.com/Pleiterson/java-basico/tree/master/src/main/statics) e [final](https://github.com/Pleiterson/java-basico/tree/master/src/main/finals)), interfaces, enums, etc.
+- Explicado os conceitos de [classes](https://github.com/Pleiterson/java-basico/tree/master/src/main/classes) (atributos, retornos, parâmetros, assinaturas, construtores), [tipos](https://github.com/Pleiterson/java-basico/tree/master/src/main/tipos) (primitivos, não primitivos, wrappers, tipagem forte e estática), modificadores de acessos (public, private, protected, default, [abstract](https://github.com/Pleiterson/java-basico/tree/master/src/main/abstracts), [static](https://github.com/Pleiterson/java-basico/tree/master/src/main/statics) e [final](https://github.com/Pleiterson/java-basico/tree/master/src/main/finals)), [interfaces](), [enums](), etc.
 - 
 
 
