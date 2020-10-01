@@ -20,7 +20,7 @@
 - Conceitos sobre [debug de código](https://github.com/Pleiterson/java-basico/tree/master/debug-de-codigo/src/main);
 - Conceitos de [paradigmas em orientação a objetos](https://github.com/Pleiterson/java-basico/tree/master/paradigma-oo);
 - Criando objetos com [construtores](https://github.com/Pleiterson/java-basico/tree/master/construtores);
-- [Encapsulamentos](https://github.com/Pleiterson/java-basico/tree/master/encapsulamento), heranças e polimorfimos;
+- [Encapsulamentos](https://github.com/Pleiterson/java-basico/tree/master/encapsulamento), [heranças](https://github.com/Pleiterson/java-basico/tree/master/heranca) e polimorfimos;
 
 
 <!--License session-->
