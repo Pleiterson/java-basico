@@ -21,7 +21,7 @@
 - Conceitos de [paradigmas em orientação a objetos](https://github.com/Pleiterson/java-basico/tree/master/paradigma-oo);
 - Criando objetos com [construtores](https://github.com/Pleiterson/java-basico/tree/master/construtores);
 - [Encapsulamentos](https://github.com/Pleiterson/java-basico/tree/master/encapsulamento), [heranças](https://github.com/Pleiterson/java-basico/tree/master/heranca) e [polimorfimos](https://github.com/Pleiterson/java-basico/tree/master/heranca/exemplo003);
-- Conceitos de [equals](), [hashcode](), [super]() e [this]().
+- Conceitos de [equals](https://github.com/Pleiterson/java-basico/tree/master/caracteristicas%20oo/equals), [hashcode](https://github.com/Pleiterson/java-basico/tree/master/caracteristicas%20oo/hashcode), [super](https://github.com/Pleiterson/java-basico/tree/master/caracteristicas%20oo/super) e [this](https://github.com/Pleiterson/java-basico/tree/master/caracteristicas%20oo/this).
 
 
 <!--License session-->
