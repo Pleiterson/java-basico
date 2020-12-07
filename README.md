@@ -14,6 +14,8 @@
 <!--About session-->
 <h1 align="center">Desenvolvimento Básico Java<br>Digital Innovation One</h1>
 
+A linguagem Java é orientada a objetos e uma das mais usadas por desenvolvedores no mundo. Aprenda desde os conceitos e instalação até a execução de projetos em Java.
+
 - Criação de um projeto em Java [hello-java](https://github.com/Pleiterson/java-basico/tree/master/hello-java) e executando via linha de comando;
 - Conceitos de [classes](https://github.com/Pleiterson/java-basico/tree/master/src/main/classes) (atributos, retornos, parâmetros, assinaturas, construtores), [tipos](https://github.com/Pleiterson/java-basico/tree/master/src/main/tipos) (primitivos, não primitivos, wrappers, tipagem forte e estática), modificadores de acessos (public, private, protected, default, [abstract](https://github.com/Pleiterson/java-basico/tree/master/src/main/abstracts), [static](https://github.com/Pleiterson/java-basico/tree/master/src/main/statics) e [final](https://github.com/Pleiterson/java-basico/tree/master/src/main/finals)), [interfaces](https://github.com/Pleiterson/java-basico/tree/master/src/main/interfaces) (métodos abstratos, default e herança múltipla), [enums](https://github.com/Pleiterson/java-basico/tree/master/src/main/enums);
 - Conceitos de [strings](https://github.com/Pleiterson/java-basico/tree/master/src/main/strings), [condicionais](https://github.com/Pleiterson/java-basico/tree/master/src/main/condicionais) (if, if ternário e else if) [operadores](https://github.com/Pleiterson/java-basico/tree/master/src/main/operadores) (igualdade, lógico, incremento, matemático e relacional), [laços de repetição](https://github.com/Pleiterson/java-basico/tree/master/src/main/condicionais) (for, while e do while) e conveções de nomes;
